@@ -33,4 +33,5 @@ function Thermometer() {
   );
 }
 
+//this is a test comment you can ignore it
 export default Thermometer;
